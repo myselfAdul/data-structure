@@ -39,12 +39,13 @@ m = np.array([[2, 3, 4], [3, 2, 1]])
 def print_column(m):
     rlen = len(m)
     clen = len(m[0])
-    
+
     for i in range(clen):
         for j in range(rlen):
-            print(m[j,i])
-    
+            print(m[j, i])
+
     pass
 
-print_column(m)
+
+# print_column(m)
 
