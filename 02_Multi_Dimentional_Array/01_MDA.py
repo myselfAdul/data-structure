@@ -12,3 +12,8 @@ print("3rd element of the 2nd array of the 1st array:", arr3[0, 1, 2] )
 
 
 print(arr[1][-1])
+
+
+
+# array = [1,2,3]
+# 
